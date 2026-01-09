@@ -1,0 +1,132 @@
+Prior‑Art‑Beschreibung: Düsenloser elektrostatisch‑fokussierter Ultraschall‑Tropfendruckkopf
+1. Technisches Gebiet
+Die Erfindung betrifft Drucktechnologien zur Übertragung von Flüssigkeiten auf ein Substrat.
+Insbesondere betrifft sie einen düsenlosen Druckkopf, der mechanisch erzeugte Tropfen mittels elektrostatischer Felder präzise auf ein Druckmedium überträgt.
+
+2. Hintergrund / Problemstellung
+Konventionelle Tintenstrahldrucker verwenden Mikro‑Düsen, die:
+
+empfindlich gegenüber Viskositätsschwankungen sind
+
+leicht verstopfen
+
+herstellerspezifische Tinten erfordern
+
+hohe Fertigungstoleranzen benötigen
+
+Es besteht Bedarf an einem düsenlosen Druckverfahren, das:
+
+mit beliebigen Flüssigkeiten arbeitet
+
+unempfindlich gegenüber Partikeln, Pigmenten oder Viskosität ist
+
+mechanisch einfach aufgebaut ist
+
+keine proprietären Tintenpatronen benötigt
+
+3. Zusammenfassung der Idee
+Die vorgestellte Technologie kombiniert:
+
+kontrollierte Tropfenbildung durch eine Mikropumpe an einer offenen Kapillare oder Nadel
+
+Ultraschall‑Anregung, um definierte Mikrotropfen von der Tropfenspitze zu lösen
+
+elektrostatische Beschleunigung und Fokussierung, um die Tropfen gezielt auf das Substrat zu übertragen
+
+mechanische Positionierung des Druckkopfes ähnlich einem Nadeldrucker‑Schlitten
+
+Das System benötigt keine Düsen, keine Druckkammern und keine Tintenoptimierung.
+
+4. Detaillierte Funktionsbeschreibung
+4.1 Tropfenbereitstellung
+Eine Mikropumpe fördert Flüssigkeit mit geringem Volumenstrom an die Spitze einer Kapillare oder Spritzennadel.
+Es bildet sich ein stabiler Makrotropfen, der als Reservoir dient.
+
+4.2 Tropfenablösung durch Ultraschall
+Ein piezoelektrischer Aktor versetzt die Nadel in hochfrequente Schwingung.
+Diese Schwingung erzeugt periodische Instabilitäten am Tropfenrand, wodurch einzelne Mikrotropfen definiert abreißen.
+
+Wichtig:
+Der Ultraschall erzeugt keinen Sprühnebel, sondern dient ausschließlich der kontrollierten Tropfenvereinzelung.
+
+4.3 Elektrostatische Tropfenlenkung
+Zwischen der Nadel (Hochspannung) und einer geerdeten Walze hinter dem Papier wird ein elektrisches Feld erzeugt.
+Die abgelösten Tropfen werden beim Ablösen geladen und durch das Feld präzise auf das Substrat gezogen.
+
+Die Positionierung erfolgt durch:
+
+mechanische Bewegung des Druckkopfes (x‑Achse)
+
+Vorschub des Substrats (y‑Achse)
+
+zeitliche Steuerung der Tropfenablösung
+
+Optional können Formelektroden zur Feldfokussierung eingesetzt werden.
+
+4.4 Druckmaterialien
+Das System ist kompatibel mit nahezu allen Flüssigkeiten:
+
+Füllertinten
+
+Farbstofftinten
+
+Pigmenttinten
+
+leitfähigen Tinten
+
+wasserbasierten, alkoholbasierten oder polymerbasierten Lösungen
+
+Da keine Düsen existieren, sind Partikelgröße und Viskosität weitgehend unkritisch.
+
+5. Vorteile gegenüber dem Stand der Technik
+düsenlos → keine Verstopfung
+
+tintenagnostisch → keine proprietären Patronen
+
+mechanisch simpel → Schlitten + Nadel + HV + Piezo
+
+präzise Tropfenplatzierung durch elektrostatische Fokussierung
+
+kompatibel mit hochviskosen oder pigmentierten Flüssigkeiten
+
+geringe Fertigungskosten
+
+hohe Robustheit
+
+6. Anwendungen
+allgemeiner Dokumentendruck
+
+künstlerischer Druck mit Spezialtinten
+
+leitfähige Tinten für Elektronik
+
+Labor‑ und Bio‑Druck
+
+großformatige oder robuste Drucksysteme
+
+7. Prior‑Art‑Charakter
+Diese Beschreibung dokumentiert ein kombiniertes Verfahren, das sich klar unterscheidet von:
+
+klassischen Inkjet‑Druckern (Piezo/Thermal)
+
+reinen Ultraschall‑Sprays
+
+reinen elektrohydrodynamischen Jets
+
+Impact‑Druckern
+
+LIFT‑Verfahren
+
+Die Kombination aus:
+
+Mikropumpen‑Tropfenbildung,
+
+Ultraschall‑Tropfenablösung,
+
+elektrostatischer Tropfenfokussierung,
+
+mechanischer Schlittenbewegung
+
+stellt eine neuartige, eigenständige Druckarchitektur dar.
+
+Damit ist diese Beschreibung geeignet, als Prior‑Art gegen spätere Patentansprüche auf genau diese Kombination zu dienen.
